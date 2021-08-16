@@ -1,6 +1,6 @@
 # Site settings
 title: Siqi's Blog
-SEOTitle: Husky | BY Blog
+SEOTitle: Silly Industry
 header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
 description: "Every failure is leading towards success."
@@ -12,7 +12,7 @@ github_repo: "https://github.com/gianthusky/gianthusky.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/111.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
